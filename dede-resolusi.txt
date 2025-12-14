@@ -1,4 +1,5 @@
 DEDE RESOLUSI 
   - project banyak 
   - bahagia 
-  - bisa survive 
+  - bisa survive
+  - merge 
